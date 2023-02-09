@@ -7,9 +7,14 @@ public class StudentDetails {
 	private void studentName() {
 		//ctrl+d - to remove the line
 		System.out.println("Student name is Siddharthan");
+	
 
 	}
 	
+	private void gitStudent() {
+		// TODO Auto-generated method stub
+		System.out.println("Test");
+	}
 	private void studentLocation() {
 		System.out.println("My location is Pallavaram");
 	}
